@@ -1,1 +1,3 @@
-
+The "make" command compiles the program and runs it
+make clean - cleans the compiled file
+make open - opens the compiled file
